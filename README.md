@@ -8,7 +8,7 @@ WAS: Apache Tomcat 8.5
 DB: Oracle 11g
 기타: 카카오 API 지도
 
-기능
+# 기능
 # 회원
 회원 가입/ 회원탈퇴
 로그인/ 로그아웃/ 마이페이지
