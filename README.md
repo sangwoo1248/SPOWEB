@@ -22,6 +22,7 @@
 <h3>로그인/ 마이페이지<br>
 <img src="https://user-images.githubusercontent.com/53454667/158960719-c0a079b2-9da8-4504-93d6-0bfb02a6f7d7.PNG"><br>
 <h3>장바구니<br>
-<img src=https://user-images.githubusercontent.com/53454667/158960734-0f27262b-adfd-43c9-9106-5d15b8f5d8a1.PNG"><br>
+<img src="https://user-images.githubusercontent.com/53454667/158961512-974c0a04-0968-493b-8e61-0d298ddae7b0.PNG"><br>
 <h3>상품 정보/ 상품 구매<br>
 <img src="https://user-images.githubusercontent.com/53454667/158960742-6e2783af-8792-4725-afc7-83c1a89fd45b.PNG"><br>
+
