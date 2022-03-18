@@ -20,9 +20,11 @@
 <h3>메인화면<br>
 <img src="https://user-images.githubusercontent.com/53454667/158959995-d42346d6-37cd-418b-9d50-8a51404c8673.PNG"><br>
 <h3>로그인/ 마이페이지<br>
-<img src="https://user-images.githubusercontent.com/53454667/158960719-c0a079b2-9da8-4504-93d6-0bfb02a6f7d7.PNG"><br>
+<img src="https://user-images.githubusercontent.com/53454667/158960719-c0a079b2-9da8-4504-93d6-0bfb02a6f7d7.PNG" width = "80%"><br>
 <h3>장바구니<br>
-<img src="https://user-images.githubusercontent.com/53454667/158961512-974c0a04-0968-493b-8e61-0d298ddae7b0.PNG"><br>
+<img src="https://user-images.githubusercontent.com/53454667/158961512-974c0a04-0968-493b-8e61-0d298ddae7b0.PNG" width = "80%"><br>
 <h3>상품 정보/ 상품 구매<br>
-<img src="https://user-images.githubusercontent.com/53454667/158960742-6e2783af-8792-4725-afc7-83c1a89fd45b.PNG"><br>
+<img src="https://user-images.githubusercontent.com/53454667/158960742-6e2783af-8792-4725-afc7-83c1a89fd45b.PNG width = "80%""><br>
+<h3>게시판<br>
+<img src = "https://user-images.githubusercontent.com/53454667/158963033-86c99d5d-7aef-498f-9134-98204964b3c7.png" width = "80%">
 
