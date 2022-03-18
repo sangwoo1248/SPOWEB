@@ -17,5 +17,6 @@
 # 관리자
 - 로그인
 <br>
-![image](https://user-images.githubusercontent.com/53454667/158958900-d7868444-ec7b-413f-b7c6-072b64a93751.png)
+<h3>메인화면<br>
+
 
