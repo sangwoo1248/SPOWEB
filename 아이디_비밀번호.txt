@@ -1,0 +1,22 @@
+<tr>
+<th scope="row">아이디 
+<img src="http://img.echosting.cafe24.com/skin/base_ko_KR/member/ico_required.gif" alt="필수"/>
+</th>
+<td>
+<input id="member_id" name="member_id" 
+fw-filter="isFill&isFill&isMin[4]&isMax[16]&isIdentity" 
+fw-label="아이디" fw-msg="" 
+class="inputTypeText" placeholder="" value="" type="text"/> 
+<a href="#none" title="새창 열기" onclick="checkIdLayer('/member/check_id.html')">
+<img src="http://img.echosting.cafe24.com/skin/base_ko_KR/member/btn_overlap_id.gif" alt="아이디 중복확인"/>
+</a> (영문소문자/숫자, 4~16자)
+</td>
+</tr>
+
+<tr>
+<th scope="row">비밀번호 
+</th>
+<td><input id="passwd" name="passwd"/> 
+(영문 대소문자/숫자/특수문자 중 2가지 이상 조합, 8자~16자)
+</td>
+</tr>
